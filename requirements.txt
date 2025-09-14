@@ -1,0 +1,8 @@
+tensorflow-macos
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorboard
+streamlit
+ipykernel
